@@ -1,13 +1,13 @@
 {
-  "name": "TG File Share/Sharing Bot",
-  "description": "file sharing bot store posts and it can access by special links",
+  "name": "Flix Cinema File Store Bot",
+  "description": "The Official File Sharing Bot Store Of Flix Cinema",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://telegra.ph/Source-Code-07-18-2",
+  "logo": "https://telegra.ph/file/a39d3af5d964c84d9c6e1.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "5249338053"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
